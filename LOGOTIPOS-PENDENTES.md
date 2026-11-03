@@ -1,8 +1,12 @@
-# Logotipos pendentes — LP07
+# Logotipos — LP07 (CONCLUÍDO)
 
-O site está 100% construído em `lp/desenvolvimento-de-aplicativos/index.html`.
-Faltam apenas as imagens Base64, que estão como **placeholders** (`src=""` / `href=""`)
-identificados pelo atributo `data-logo`.
+> **Status:** os logotipos Base64 da referência já foram inseridos em todos os
+> placeholders `data-logo` (favicon, logo ON nos 2 lugares e os 6 logos de clientes).
+> O site renderiza idêntico à referência. Este guia fica como histórico.
+
+O site está 100% construído em `lp/desenvolvimento-de-aplicativos/index.html` e também
+na raiz `index.html`. As imagens Base64 foram extraídas da referência
+`07-lp-desenvolvimento-de-aplicativos.html` e coladas nos elementos `data-logo`.
 
 ## O que substituir
 
